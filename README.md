@@ -63,18 +63,7 @@ A scalable, secure, and modular backend microservice that handles **user authent
 
 ---
 
-## ⚙️ Environment Variables
 
-Create a `.env` file in root:
-
-```
-PORT=5000
-MONGO_URI=mongodb://localhost:27017/subscriptionDB
-JWT_SECRET=your_jwt_secret
-REDIS_URL=redis://127.0.0.1:6379
-```
-
----
 
 ## 📦 Installation & Setup
 
@@ -184,6 +173,3 @@ Made with ❤️ by [Utkarsh Singh](https://github.com/utkarshh1506)
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
